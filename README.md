@@ -8,4 +8,5 @@ It has responsive design
 ![](https://github.com/Humza-K-T/My-First-Website/blob/master/mobile%20display.png)
 
 <h2>Browser View</h2>
+
 ![](https://github.com/Humza-K-T/My-First-Website/blob/master/browser.png)

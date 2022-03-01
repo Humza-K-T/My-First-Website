@@ -1,11 +1,11 @@
 
-#My First website using HTML CSS JS
+<h1>My First website using HTML CSS JS</h1>
 
-##Responsive Design
+It has responsive design
 
-##Mobile View
+<h2>Mobile View</h2>
 
 ![](https://github.com/Humza-K-T/My-First-Website/blob/master/mobile%20display.png)
 
-##Browser View
+<h2>Browser View</h2>
 ![](https://github.com/Humza-K-T/My-First-Website/blob/master/browser.png)
